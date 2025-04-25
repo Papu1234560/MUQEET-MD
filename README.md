@@ -49,7 +49,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/muqeet908/MUQEET-MD/fork"><img title="MUQEET-MD" src="https://img.shields.io/badge/FORK-ALI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/muqeet908/MUQEET-MD/fork"><img title="MUQEET-MD" src="https://img.shields.io/badge/FORK-MUQEET%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
