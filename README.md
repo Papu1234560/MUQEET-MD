@@ -264,7 +264,7 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <br>
 
 ```
-THANK YOU RYL BROKEN 💔, MUSTAFA ♥️, MUQEET ☠️ & YOU SUPPORTERS
+THANK YOU  MUSTAFA ♥️, MUQEET ☠️ & YOU SUPPORTERS
 ```
 -----
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
