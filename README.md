@@ -113,6 +113,51 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+### DEPLOY ON WORKFLOWS💀
+
+### GitHub Actions Workflows
+
+#### Node.js CI
+
+You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
+
+```yaml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
 ### <h4 align="">6. HUGGING FACE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
